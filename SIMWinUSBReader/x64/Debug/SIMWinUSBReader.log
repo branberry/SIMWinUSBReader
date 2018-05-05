@@ -1,0 +1,6 @@
+﻿  Building 'SIMWinUSBReader' with toolset 'WindowsApplicationForDrivers10.0' and the 'Universal' target platform.
+  device.cpp
+  main.cpp
+  Generating Code...
+  SIMWinUSBReader.vcxproj -> C:\Users\Brandon Ly\source\repos\SIMWinUSBReader\x64\Debug\SIMWinUSBReader.exe
+C:\Program Files (x86)\Windows Kits\10\build\WindowsDriver.common.targets(1770,5): error MSB3721: The command ""C:\Program Files (x86)\Windows Kits\10\bin\10.0.16299.0\x64\ApiValidator.exe" -DriverPackagePath:"C:\Users\Brandon Ly\source\repos\SIMWinUSBReader\x64\Debug\\" -SupportedApiXmlFiles:"C:\Program Files (x86)\Windows Kits\10\build\universalDDIs\x64\UniversalDDIs.xml" -ModuleWhiteListXmlFiles:"C:\Program Files (x86)\Windows Kits\10\build\universalDDIs\x64\ModuleWhiteList.xml" -ApiExtractorExePath:"C:\Program Files (x86)\Windows Kits\10\bin\10.0.16299.0\x64"" exited with code 1.
